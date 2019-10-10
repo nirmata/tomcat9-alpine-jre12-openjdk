@@ -18,7 +18,7 @@ docker pull nirmata/tomcat9-alpine-jre12-openjdk
 ## Extending
 
 ````dockerfile
-FROM nirmata/tomcat9-alpine-jre12-openj9
+FROM nirmata/tomcat9-alpine-jre12-openjdk
 
    ...
 
